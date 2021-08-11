@@ -50,8 +50,17 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="https://www.xilinx.com/"><img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?logo=xilinx&logoColor=white"></a>
+    <a href="https://www.xilinx.com/" target="_blank"><img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?logo=xilinx&logoColor=white"></a>
   &emsp;
-  <a href="https://www.xilinx.com/"><img alt="Vitis" src="https://img.shields.io/badge/Vitis-yellowgreen.svg?logo=xilinx&logoColor=white"></a>
+  <a href="https://www.xilinx.com/" target="_blank"><img alt="Vitis" src="https://img.shields.io/badge/Vitis-yellowgreen.svg?logo=xilinx&logoColor=white"></a>
 </p>
 
+### ► Documentation
+<p>
+  &emsp;
+  <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23007396.svg?logo=latex&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.markdownguide.org/" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-blue.svg?logo=markdown&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-blue.svg?&logoColor=white"></a>
+</p>
