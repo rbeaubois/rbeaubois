@@ -30,6 +30,10 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://fr.mathworks.com/products/matlab.html" target="_blank"> 
+    <img alt="Matlab" src="https://img.shields.io/badge/Matlab-orange.svg?logo=matlab&logoColor=white">
+  </a>
 </p>
 
 ### ► Description language
@@ -47,8 +51,8 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?logo=xilinx&logoColor=red"></a>
+    <a href="https://www.xilinx.com/"><img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?logo=xilinx&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Vitis" src="https://img.shields.io/badge/Vitis-yellowgreen.svg?logo=xilinx&logoColor=red"></a>
+  <a href="https://www.xilinx.com/"><img alt="Vitis" src="https://img.shields.io/badge/Vitis-yellowgreen.svg?logo=xilinx&logoColor=white"></a>
 </p>
 
