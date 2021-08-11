@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=PhD+Student+at+IMS+Bordeaux;Electronics+Engineer;specialty+Embedded+Systems&center=true&width=450&height=50"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-24-9cf" />
   <img src="https://img.shields.io/badge/Focus-Embedded systems-blue" />
   <img src="https://img.shields.io/badge/Location-France-blue" />
   <img src="https://img.shields.io/badge/Languages-French%20%26%20English%20%26%20Japanese-blue" />
