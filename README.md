@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Embedded systems-blue" />
-  <img src="https://img.shields.io/badge/Location-France-blue" />
+  <img src="https://img.shields.io/badge/Location-Japan-blue" />
   <img src="https://img.shields.io/badge/Languages-French%20%26%20English%20%26%20Japanese-blue" />
 </p>
 <hr/>
