@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Languages-French%20%26%20English%20%26%20Japanese-blue" />
 </p>
 <hr/>
-<h4 align="center">PhD Student in the field of Bioelectronics working on Real-time biohybrid system using Spiking Neural Network.</h4>
+<h4 align="center">Postdoctoral Researcher in Bioelectronics working on real-time biohybrid systems using biorealistic Spiking Neural Network on SoC FPGA.</h4>
 <br>
 
 ### ► Programming languages
