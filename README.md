@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Romain Beaubois</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Postdoctoral+Researcher+in+Bioelectronics;PhD+in+Electronics;Embedded+Systems+specialty&center=true&width=450&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Postdoctoral+Researcher+in+Bioelectronics;PhD+in+Electronics;Embedded+Systems+specialty&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Embedded systems-blue" />
@@ -48,11 +48,15 @@
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?logo=Visual Studio Code&logoColor=#007ACC"></a>
   &emsp;
-    <a href="https://www.xilinx.com/" target="_blank"><img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?logo=xilinx&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Neovim-white.svg?logo=Neovim&logoColor=#57A143"></a>
   &emsp;
-  <a href="https://www.xilinx.com/" target="_blank"><img alt="Vitis" src="https://img.shields.io/badge/Vitis-yellowgreen.svg?logo=xilinx&logoColor=white"></a>
+    <a href="https://www.xilinx.com/" target="_blank"><img alt="Vivado" src="https://img.shields.io/badge/Vivado-grey.svg?logo=amd&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.xilinx.com/" target="_blank"><img alt="Vitis" src="https://img.shields.io/badge/Vitis-grey.svg?logo=amd&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.xilinx.com/" target="_blank"><img alt="Vitis" src="https://img.shields.io/badge/Vitis HLS-grey.svg?logo=amd&logoColor=white"></a>
 </p>
 
 ### ► Documentation
@@ -62,5 +66,5 @@
   &emsp;
   <a href="https://www.markdownguide.org/" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-blue.svg?logo=markdown&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-blue.svg?&logoColor=white"></a>
+  <a href="#"><img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-blue.svg?&logo=Sphinx&logoColor=white"></a>
 </p>
