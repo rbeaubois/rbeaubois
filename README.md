@@ -10,25 +10,15 @@
 ### ✦ Programming languages
 <p align="left"> 
   &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"></a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> 
   &emsp;
-  <a href="https://www.rust-lang.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white">
-  </a>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white"></a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-  </a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
   &emsp;
-  <a href="https://fr.mathworks.com/products/matlab.html" target="_blank"> 
-    <img src="https://img.shields.io/badge/MATLAB-orange.svg?logo=matlab&logoColor=white">
-  </a>
+  <a href="https://fr.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.shields.io/badge/MATLAB-orange.svg?logo=matlab&logoColor=white"></a>
 </p>
 
 ### ✦ Description language
