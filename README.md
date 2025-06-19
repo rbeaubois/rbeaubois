@@ -1,15 +1,12 @@
-<h1 align="center">Hi , I'm Romain Beaubois</h1>
+<h1 align="center">Welcome!</h1>
+<h4 align="center">PhD in Electronics | FPGA & Embedded systems | Software Engineer</h4>
+<br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Postdoctoral+Researcher+in+Bioelectronics;PhD+in+Electronics;Embedded+Systems+specialty&center=true&width=500&height=50"></a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Embedded systems-blue" />
-  <img src="https://img.shields.io/badge/Location-Japan-blue" />
-  <img src="https://img.shields.io/badge/Languages-French%20%26%20English%20%26%20Japanese-blue" />
+  <img src="https://img.shields.io/badge/Focus-Embedded Systems & FPGA-blue" />
+  <img src="https://img.shields.io/badge/Location-France-blue" />
+  <img src="https://img.shields.io/badge/Languages-🇫🇷 French 🇬🇧 English 🇯🇵 Japanese-blue" />
 </p>
 <hr/>
-<h4 align="center">Postdoctoral Researcher in Bioelectronics working on real-time biohybrid systems using biorealistic Spiking Neural Network on SoC FPGA.</h4>
-<br>
 
 ### ► Programming languages
 <p align="left"> 
@@ -48,7 +45,7 @@
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?logo=Visual Studio Code&logoColor=#007ACC"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=007ACC"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Neovim-white.svg?logo=Neovim&logoColor=#57A143"></a>
   &emsp;
