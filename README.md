@@ -1,4 +1,4 @@
-<h4 align="center">PhD in Electronics | FPGA & Embedded systems | Software Engineer</h4>
+<h4 align="center">PhD in Electronics | FPGA & Embedded systems | Hardware/Software Engineer</h4>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Embedded Systems & FPGA-blue" />
