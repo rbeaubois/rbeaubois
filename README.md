@@ -7,7 +7,7 @@
 </p>
 <hr/>
 
-**✦ Programming Languages**
+> **Programming Languages**
 <p align="left"> 
   &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"></a> 
@@ -21,7 +21,7 @@
   <a href="https://fr.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.shields.io/badge/MATLAB-orange.svg?logo=matlab&logoColor=white"></a>
 </p>
 
-**✦ Description language**
+> **Description language**
 <p align="left">
   &emsp;
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/VHDL-blueviolet.svg?logoColor=white"></a>
@@ -29,7 +29,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/HLS-E04E39.svg?logoColor=white"></a>
 </p>
 
-**✦ Software & Tools**
+> **Software & Tools**
 <p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -49,7 +49,7 @@
   <a href="#" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
 </p>
 
-**✦ Documentation**
+> **Documentation**
 <p>
   &emsp;
   <a href="#"><img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-blue.svg?&logo=Sphinx&logoColor=white"></a>
